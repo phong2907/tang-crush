@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Bạn gì eiiiii!',
     introDesc: `bấm vào đây này
-    có cái này hay lắm -)))`,
+    có cái này hay lắm -))))`,
     btnIntro: 'okkkk',
     title: 'trên thế giới có hơn 7 tỉ nụ cười nhưng đối với tôi nụ cười ấy vẫn là đẹp nhất,thế nên là làm ơn!!',
     desc: 'hãy để tôi giữ nụ cười ấy trên môi được không?  CHẤP NHẬN ĐI =)))',
