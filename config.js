@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `có nhạc bên cạnh ai không feel
     có Quìn bên cạnh yêu không phai`,
     btnIntro: 'hê hê',
-    title: 'trên thế giới có hơn 7 tỉ nụ cười nhưng đối với tao nụ cười ấy vẫn là đẹp nhất,thế nên là làm ơn!!😙',
+    title: 'trên thế giới có hơn 7 tỉ nụ cười nhưng đối với t nụ cười ấy vẫn là đẹp nhất,thế nên là làm ơn!!😙',
     desc: 'hãy để t giữ nụ cười ấy trên môi được không? ',
     btnYes: 'okkk được luônnnnn <33',
     btnNo: 'Không được :3',
