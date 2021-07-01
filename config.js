@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `bấm vào đây này
     có cái này hay lắm -)))`,
     btnIntro: 'okkkk',
-    title: 'trên thế giới có hơn 7 tỉ nụ cười nhưng đối với t nụ cười ấy vẫn là đẹp nhất,thế nên là làm ơn!!😙',
+    title: 'trên thế giới có hơn 7 tỉ nụ cười nhưng đối với t nụ cười ấy vẫn là đẹp nhất,thế nên là làm ơn!!',
     desc: 'hãy để t giữ nụ cười ấy trên môi được không?  không chơi thoát ra nháaa',
     btnYes: 'okkk được luônnnnn <33',
     btnNo: 'Không được :3',
